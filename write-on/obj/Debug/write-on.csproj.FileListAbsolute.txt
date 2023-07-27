@@ -1,0 +1,13 @@
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\bin\Debug\write-on.exe.config
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\bin\Debug\write-on.exe
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\bin\Debug\write-on.pdb
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write-on.csproj.AssemblyReference.cache
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write-on.csproj.SuggestedBindingRedirects.cache
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write_on.Form1.resources
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write_on.Properties.Resources.resources
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write-on.csproj.GenerateResource.cache
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write-on.csproj.CoreCompileInputs.cache
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write-on.exe
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write-on.pdb
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write_on.toolbox.resources
+F:\XteclabFlightSimulatorv1\C++guide\write-on\write-on\obj\Debug\write_on.logw.resources
