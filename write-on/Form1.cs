@@ -51,6 +51,7 @@ namespace write_on
             {
                 
                 this.Hide();
+                
                 Thread.Sleep(500);
                 Bitmap bg = screenShot();
 
@@ -117,7 +118,14 @@ namespace write_on
             }
             else if(act && global.oval)
             {
-                gp.DrawArc(new Pen(global.dc, global.ps), sp.X - 30, sp.Y - 30, MousePosition.X - sp.X, MousePosition.Y - sp.Y, 45F,45F);
+                try
+                {
+                    gp.DrawArc(new Pen(global.dc, global.ps), sp.X - 30, sp.Y - 30, MousePosition.X - sp.X, MousePosition.Y - sp.Y, 360F, 360F);
+                }
+                catch (Exception e)
+                {
+                    global.log += e;
+                }
             }
         }
 
